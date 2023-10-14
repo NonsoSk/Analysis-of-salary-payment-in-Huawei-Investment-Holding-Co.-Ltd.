@@ -2,10 +2,16 @@
 
 
 
-___
+
+
+________
+
+
+
 
 ## Table of Content
 - [overview](overview)
+- [Problem Statement](problem-statement)
 - [Data Sources](data-sources)
 - [Tools](tools)
 - [Data Cleaning](data-cleaning)
@@ -13,7 +19,7 @@ ___
 - [Reference](reference)
   
 
-
+ ___ 
 ### overview
 This is an Excel task, that shows the analysis of salaries paid by Huawei Investment & Holding Co., Ltd. to its different employees.
 
@@ -47,18 +53,34 @@ The dataset used is Employee dataset of Huawei Investment & Holding Co., Ltd. wh
 Excel
 
 ### Data Cleaning
-I performed the following tasks:
-- I created a dataset with 20 rows of information.
-- Using the filter function in the "sort and filter bar", I was able to show only employees who are freelancers. In thesame worksheet, Iused the "highlight cell rules" in the "conditional formatting" to highlight those freelancers whose salaries are above $10,000.
-- I used the "Text to column" function to seperate the "full names" into "first name" amd "last name". In thesame worksheet, I used the "highlight cell rules" under "conditional formatting" to highlight duplicate values.
-- I usef the "new rule" in "conditional formatting" to format the highest salary to green background and the lowest salary to red background.
-In the "new rule" option which I worked with, I formatted only top and bottom ranked values, but however reduced both values to 1 for both top ranked value and bottom ranked value.
+The dataset I created with 20 rows of information was not clean enough and so I had to clean thus:
 
-### Explanatory Data Analysis
-This has to do with explaining the employee data to asnwer certain questions like: who receives the highest salary; who receives the lowest salary; what Job pays the highest and what job pays the lowest salary.
+- Using filter, I was able to show only employees who are freelancers. In thesame worksheet, I highlighted those freelancers whose salaries are above $10,000. This Iachieved using conditional formatting. 
+- I splite the "full names" into "first name" amd "last name". In thesame worksheet, and then highlighted duplicate values.
+- I used the "new rule" in "conditional formatting" to format the highest salary to green background and the lowest salary to red background.
 
-From our analysis, I was able to show that the higest salary by formatting it to a green backgroung and the lowest to red backgroung in worksheeet three.
-this means that "communications" pays the highest salary while I.T pays the least.
+### Explanatory  Analysis
+Using the very basic formulars and functions in excel, I chose to create a very simple dashboard to reflect my analysis. I used the colors "red" and "yellow" as a reflection of the company and her country`s color and then " green" to show highest value. 
+From our analysis, we could see the following:
+
+In worksheet One, we see that:
+
+- Only two out of 7 freelancers are earning below $10,000
+- The freelancers earning below $10,000 all work in the sales department.
+- However there are other employees working in the sales department who earn more than $10,000
+- Only one employee from the communications department work as a freelancer.
+
+Here is the dashboard I came up with:
+
+
+
+
+
+
+
+
+
+
 
 ### Reference
 Data Analytics For Absolute Beginners: 
