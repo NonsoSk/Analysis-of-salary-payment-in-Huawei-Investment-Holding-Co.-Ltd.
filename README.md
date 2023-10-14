@@ -1,4 +1,8 @@
-# Data-Analytics-Training-Task-One-1-
+# Analysis of Salary payment in Huawei Investment & Holding Co., Ltd.
+
+
+
+___
 
 ## Table of Content
 - [overview](overview)
@@ -11,17 +15,28 @@
 
 
 ### overview
+This is an Excel task, that shows the analysis of salaries paid by Huawei Investment & Holding Co., Ltd. to its different employees.
 
-This is aimed at primarily exploring the basic formulas and functions of excel in Data analysis.
+The aim is primarily to examine the variation in payment of salaries across the various departments of the company in order to make proper increment where necessary.
 
-Using a dataset with 20 rows of information which we were asked to create in worksheet one, we were asked to copy and paste the table to worksheet 2 amd worksheet 3 and then solve the following problems:
+However, Using a dataset with 20 rows of information we shall copy and paste the table to worksheet 2 amd worksheet 3 and then solve the following problems:
 
 - In worksheet one(1), show only employees who are freelancers and highlight the ones whose salaries are above $10000
 - In worksheet 2,split Employees full names into first name and last name. Check for duplicates and highlight if any (do not delete).
 - In worksheet 3, highlight employees whose names begin with the letter "E" (in yellow). Format the salary column such that the highest salary has green background and the lowest salary has a red background.
 
+## Problem Statement:
+- To trace the highest paid job type
+- To trace the highest and lowest paid employee
+- To get the job type that needs increment in salary
+
+## Skills demostrated in the task
+- Data Cleaning
+- Critical thinking
+- Problem solving
+
 ### Data Sources
-The dataset used is Employee dataset which I created. contains detailed information such as :
+The dataset used is Employee dataset of Huawei Investment & Holding Co., Ltd. which I created. It contains detailed information such as :
 - Employee ID
 - Employee full Name
 - Department ( communications, sales, I.T)
