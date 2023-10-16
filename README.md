@@ -72,7 +72,7 @@ From our analysis, we could see the following:
 - However there are other employees working in the sales department who earn more than $10,000
 - Only one employee from the communications department work as a freelancer.
 
-**Here is the dashboard I came up with:**
+**check below for proper understanding :**
 
 ![task one one](https://github.com/NonsoSk/Analysis-of-salary-payment-in-Huawei-Investment-Holding-Co.-Ltd./assets/147613828/2287f791-9747-4a38-a8d8-33940c6f8fa7)
 
@@ -80,7 +80,7 @@ From our analysis, we could see the following:
  **In worksheet two, we can also see that:**
 
  - Despite highlighting duplicate values, no two employees had exact data ranging from their ID through their names down to the type of job they did in the company.
- **Below is the dashboard we built to support this:**
+ **view the image below:**
 
    
 ![task one two](https://github.com/NonsoSk/Analysis-of-salary-payment-in-Huawei-Investment-Holding-Co.-Ltd./assets/147613828/7cba63ef-0a2c-440d-907c-24dda9474b08)
@@ -90,7 +90,7 @@ From our analysis, we could see the following:
 
 - The employee who earns the highest salary works as a freelancer in the communications department.
 - The employee who earns the lowest salary works as part-time in the I.T department.
- **The dashboard below shows this:**
+ **The image below shows this:**
 
 
 
